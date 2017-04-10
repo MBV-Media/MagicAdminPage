@@ -1,5 +1,5 @@
 {
-  "name": "r4c00n/magic-admin-page",
+  "name": "mbv-media/magic-admin-page",
   "description": "Helper class to generate WordPress admin pages.",
   "homepage": "https://github.com/R4c00n/MagicAdminPage",
   "license": "MIT",
@@ -9,8 +9,8 @@
   ],
   "authors": [
     {
-      "name": "R4c00n",
-      "email": "marcel.kempf93@gmail.com"
+      "name": "MBV-Media",
+      "email": "info@mbv-media.com"
     }
   ],
   "require": {
