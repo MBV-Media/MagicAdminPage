@@ -496,7 +496,7 @@ class MagicAdminPage {
                 $key = $option;
             }
             $selected = '';
-            if ( $key === $value
+            if ( $key == $value
                 || ( is_array( $value ) && in_array( $key, $value ) )
             ) {
                 $selected = 'selected="selected"';
